@@ -1,16 +1,22 @@
-## Hi there 👋
+## Ola! Eu sou o Enzo 👋😊
 
-<!--
-**Enzuldo2/Enzuldo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently studing Computer Engeneer in UFSCAR
+- 🏃 I love doing sports.
+- 📫 How to reach me: enzodezem506@gamil.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+![Enzuldo2 GitHub stats](https://github-readme-stats.vercel.app/api?username=Enzuldo2&show_icons=true&theme=tokyonight)
+
+
+![link](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzuldo2&theme=blue-green)
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Enzo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Enzo C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Enzo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Enzo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Enzo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Enzo-Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+</div>

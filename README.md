@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studing Computer Engeneer in UFSCAR
 - 🏃 I love doing sports.
-- 📫 How to reach me: enzodezem506@gamil.com
+- 📫 How to reach me: enzodezem506@gmail.com
 
 ##
 ![Enzuldo2 GitHub stats](https://github-readme-stats.vercel.app/api?username=Enzuldo2&show_icons=true&theme=tokyonight)

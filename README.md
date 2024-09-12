@@ -9,7 +9,7 @@
 ![Enzuldo2 GitHub stats](https://github-readme-stats.vercel.app/api?username=Enzuldo2&show_icons=true&theme=tokyonight)
 
 
-![link](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzuldo2&theme=Tokio)
+![link](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzuldo2&theme=tokyonight)
 
 
 <div style="display: inline_block"><br>

@@ -2,7 +2,7 @@
 
 <table align="right">
  <tr><td><a href="./README.md">:brazil: Português</a></td></tr>
- <tr><td><a href="./README_EN.md">:us: English</a></td></tr>
+ <tr><td><a href="./README_en.md">:us: English</a></td></tr>
 </table>
 
 <h1 align="center">Ola! Eu sou o Enzo 👋😊</h1>

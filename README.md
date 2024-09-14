@@ -13,8 +13,8 @@
 
 <br />
 
-<p> - Adoro Porgramar e fazer as coisas acontecerem, Gosto de me esforçar e ver o trabalho bem feito.
-- Adoro esportes e cuidar da saude.
+<p> Adoro Porgramar e fazer as coisas acontecerem, Gosto de me esforçar e ver o trabalho bem feito.
+ Adoro esportes e cuidar da saude.
 </p>
 
 <br />

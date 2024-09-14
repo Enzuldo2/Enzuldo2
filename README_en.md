@@ -13,8 +13,8 @@
 
 <br />
 
-<p> - I love programming and making things happen, I like making an effort and seeing the work well done.
-- I love sports and taking care of my health.
+<p>I love programming and making things happen, I like making an effort and seeing the work well done.
+ I love sports and taking care of my health.
 </p>
 
 <br />

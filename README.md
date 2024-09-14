@@ -32,7 +32,7 @@
 
 - 📝 [Currículo](https://docs.google.com/document/d/1-jBhG6_gIDsRbMmOludJaoNrwXo2pkoy/edit)
 
-- 💻 Projetos pessoais com maior destaque: [Sistema de Hotel](), [SimpleQL]().
+- 💻 Projetos pessoais com maior destaque: [Sistema de Hotel](https://github.com/Enzuldo2/Hotel-Reservation), [SimpleQL](https://github.com/MBGustav/ORI), [Processador Monociclo](https://github.com/Enzuldo2/Processador-RISC-V---Monociclo)
 </details>
 
 <br />

@@ -1,8 +1,8 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 <table align="right">
- <tr><td><a href="./README_EN.md">:us: English</a></td></tr>
  <tr><td><a href="./README.md">:brazil: Português</a></td></tr>
+ <tr><td><a href="./README_EN.md">:us: English</a></td></tr>
 </table>
 
 <h1 align="center">Ola! Eu sou o Enzo 👋😊</h1>

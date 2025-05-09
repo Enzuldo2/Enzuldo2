@@ -1,4 +1,4 @@
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif)
 
 <table align="right">
  <tr><td><a href="./README.md">:brazil: Português</a></td></tr>

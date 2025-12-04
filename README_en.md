@@ -26,13 +26,13 @@
   
 - 💻 Hardware - RISC - V
 
-- Studying Computer Engineering at UFSCAR
+- 🤓 Studying Computer Engineering at UFSCAR
 
 - 🗣️ Advanced English
 
 - 📝 [Resume](https://docs.google.com/document/d/1-jBhG6_gIDsRbMmOludJaoNrwXo2pkoy/edit)
 
-- 💻 Major Projects: [Hotel System](https://github.com/Enzuldo2/Hotel-Reservation), [SimpleQL](https://github.com/MBGustav/ORI), [Unicycle Processor](https://github.com/Enzuldo2/Processador-RISC-V---Monociclo)
+- 💻 Major Projects: [Hotel System](https://github.com/Enzuldo2/Hotel-Reservation), [Data Sciencie](https://github.com/gus-kim/Panda-Project), [Unicycle Processor](https://github.com/Enzuldo2/Processador-RISC-V---Monociclo)
 </details>
 
 <br />
